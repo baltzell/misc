@@ -24,7 +24,8 @@
 * Kinematic fitting
   * Seeing if we can support pass-2 now by modeling tracking covariance in simulation
 *  Data processing
-  * NERSC.  We have a non-negligible allocation this year, will start using it soon.
+  * NERSC
+    * We have a non-negligible allocation this year, will start using it soon.
 * AI/ML
   * See Gagik's presentation
 * 1 slide
