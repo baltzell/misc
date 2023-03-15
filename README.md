@@ -4,6 +4,11 @@
   * Full reconstruction
   * Monitoring plots
     * Server and clients, eventually replacing standalone mon12
+* Reconstruction speedups
+  * Forward and Central tracking have room for significant speedups
+  * Some was realized by using AI in forward track finding (but then negated by CVT improvements)
+  * I'd guess at least 2x should be anticipated and not too difficult
+  * This plays into the "pass2" conundrum
 * Use real run numbers in GEMC
   * Simplifies CCDB bookkeeping/documention by stop relying on variations
   * Allows using RCDB/CCDB to programatically sample conditions, particularly luminosity for background merging 
