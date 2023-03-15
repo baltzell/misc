@@ -30,7 +30,8 @@
   * Seeing if we can support pass-2 now by modeling tracking covariance in simulation
 * Data processing
   * NERSC
-    * We have a non-negligible allocation this year, will start using it soon.
+    * We have a non-negligible allocation this year, will start using it soon, once the first pass2 is out the door.
+    * Will not be a game changer this year, but we can apply for a larger allocation next year.
 * AI/ML
   * See Gagik's presentation
 * 1 slide
