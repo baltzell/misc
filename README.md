@@ -28,7 +28,7 @@
   * Regardless, will be necessary in a year or two to accommodate parity experiments in other halls requiring ~kHz helicity clock
 * Kinematic fitting
   * Seeing if we can support pass-2 now by modeling tracking covariance in simulation
-*  Data processing
+* Data processing
   * NERSC
     * We have a non-negligible allocation this year, will start using it soon.
 * AI/ML
