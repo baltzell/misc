@@ -26,8 +26,11 @@
   * Every event becomes independent, as it should always have been
   * Deprecating our offline helicity corrections that rely on sequential events
   * Regardless, will be necessary in a year or two to accommodate parity experiments in other halls requiring ~kHz helicity clock
-* Kinematic fitting
-  * Seeing if we can support pass-2 now by modeling tracking covariance in simulation
+* Physics analysis
+  * Staff scientist hiring going on now
+    * Focus is to support common analysis tools
+  * Kinematic fitting
+    * Seeing if we can support pass-2 now by modeling tracking covariance in simulation
 * Data processing
   * NERSC
     * We have a non-negligible allocation this year, will start using it soon, once the first pass2 is out the door.
