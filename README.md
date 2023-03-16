@@ -3,14 +3,12 @@
 * Online
   * EVIO -> HIPO -> ET ring
   * L3 AI Trigger, starting by leveraging HIPO event tagging
-  * Full reconstruction
+  * Reconstruction
+    * full tracking currently would be ~50 Hz on a single node
   * Monitoring plots
     * Server and clients, eventually replacing standalone mon12
 * Reconstruction speedups
-  * Forward and Central tracking have room for significant speedups
-  * Some was realized by using AI in forward track finding (but then negated by CVT improvements)
-  * I'd guess at least 2x should be anticipated and not too difficult
-  * This plays into the "pass2" conundrum
+
 * Simulations
   * Use real run numbers in GEMC
     * Simplifies CCDB bookkeeping/documention by stop relying on variations
@@ -25,6 +23,15 @@
     * GEMC/CED eye candy
     * Something else?
   * Really leverage Mode-1 FADCs, e.g., fit pulses and account for pileup
+* Data processing
+  * Software speedups
+    * Forward and Central tracking have room for significant speedups
+    * Some was realized by using AI in forward track finding (but then negated by CVT improvements)
+    * Rough estimate ... at least 2x should be anticipated and not too difficult
+    * This plays into the "pass2" conundrum
+  * NERSC
+    * We have a non-negligible allocation this year, will start using it soon, once the first pass2 is out the door.
+    * Will not be a game changer this year, but we can apply for a larger allocation next year.
 * Helicity decoder board
   * Every event becomes independent, as it should always have been
   * Deprecating our offline helicity corrections that rely on sequential events
@@ -34,10 +41,6 @@
     * Focus is to support common analysis tools
   * Kinematic fitting
     * Seeing if we can support pass-2 now by modeling tracking covariance in simulation
-* Data processing
-  * NERSC
-    * We have a non-negligible allocation this year, will start using it soon, once the first pass2 is out the door.
-    * Will not be a game changer this year, but we can apply for a larger allocation next year.
 * AI/ML
   * See Gagik's presentation
 * 1 slide
