@@ -36,7 +36,7 @@
   * Regardless, will be necessary in a year or two to accommodate parity experiments in other halls requiring ~kHz helicity clock
 * Physics analysis
   * Staff scientist hiring going on now
-    * Focus is to support common analysis tools
+    * Focus is to support common, high-level data analysis tools
   * Kinematic fitting
     * Seeing if we can support pass-2 now by modeling tracking covariance in simulation
 * AI/ML
