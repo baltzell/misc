@@ -7,8 +7,6 @@
     * full tracking currently would be ~50 Hz on a single node
   * Monitoring plots
     * Server and clients, eventually replacing standalone mon12
-* Reconstruction speedups
-
 * Simulations
   * Use real run numbers in GEMC
     * Simplifies CCDB bookkeeping/documention by stop relying on variations
