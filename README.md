@@ -44,3 +44,6 @@
 * 1 slide
   * Environment setup at JLab (echo recent email) 
   * MFA (echo recent email)
+  * Archive clas12-offline-software github repository
+    * Run a cleanup on it to reduce clone time and repo history size by 10x
+    * Rename it a more reasonable "coatjava"
