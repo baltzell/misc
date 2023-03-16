@@ -26,7 +26,7 @@
 * Data processing
   * Software speedups
     * Forward and Central tracking have room for significant speedups
-    * Some was realized by using AI in forward track finding (but then negated by CVT improvements)
+    * ~30% was realized by using AI in forward track finding (but then negated by CVT improvements)
     * Rough estimate ... at least 2x should be anticipated and not too difficult
     * This plays into the "pass2" conundrum
   * NERSC
