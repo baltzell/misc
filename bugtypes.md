@@ -1,3 +1,5 @@
+assimilated from wikipedia ...
+
 A heisenbug is a software bug that seems to disappear or alter its behavior when one attempts to study it.  Heisenbugs occur because common attempts to debug a program, such as inserting output statements or running it with a debugger, usually have the side-effect of altering the behavior of the program in subtle ways, such as changing the memory addresses of variables and the timing of its execution.
 
 A bohrbug, by way of contrast, is a "good, solid bug". Like the deterministic Bohr atom model, they do not change their behavior and are relatively easily detected.
