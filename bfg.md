@@ -1,5 +1,5 @@
 1. Download the jar
-  * https://rtyley.github.io/bfg-repo-cleaner/
+    * https://rtyley.github.io/bfg-repo-cleaner/
 2. Mirror repository
   * make new, empty repository
   * git clone --bare https://github.com/oldrepo
